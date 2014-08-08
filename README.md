@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Responsive Resume
 
 ##Introduction
@@ -34,3 +35,7 @@ If you would like to customize the style you should find it fairly easy to do. T
 and much more. Feel free to customize and tweak for your own needs.
 
 All the styles should be self explanatory or commented. If you are confused by anything please let me know by opening an <a href="https://github.com/philipcdavis/responsive-resume/issues">issue<a>.
+=======
+ryantiren.github.io
+===================
+>>>>>>> 12ad6e5f1edc4c2e5ef2b57e39dd929dd45be619
